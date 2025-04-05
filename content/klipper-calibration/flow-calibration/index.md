@@ -24,7 +24,7 @@ weight: 20
 | ---------------- | --- |
 | Layer Height     | 0.2 |
 | Paerimeters      | 2   |
-| Line Width       | 0.5 |
+| Line Width       | 0.52 |
 | Print Thin Walls | Off |
 | Top Layer        | 0   |
 | Bottom Layer     | 1   |
